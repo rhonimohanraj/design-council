@@ -1,0 +1,8 @@
+{
+  "name": "sjsyrek-local",
+  "description": "Local marketplace for the rhonimohanraj fork of design-council.",
+  "owner": { "name": "Steven Syrek", "url": "https://github.com/sjsyrek" },
+  "plugins": [
+    { "name": "design-council", "source": "./", "description": "Parallel specialist Claude agents debate a cross-domain decision; CEO arbitrates and writes a decision log." }
+  ]
+}
